@@ -1,0 +1,10 @@
+com\login\controller\MainController.class
+com\login\dao\UserRegistrationDto.class
+com\login\RegistrationLoginSpringBootSecurityThymeleafApplication.class
+com\login\repository\UserRepository.class
+com\login\service\UserService.class
+com\login\service\UserServiceImpl.class
+com\login\model\Role.class
+com\login\model\User.class
+com\login\controller\UserRegistrationController.class
+com\login\config\SecurityConfiguration.class
